@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <i>I am trying to learn a bit of everything. You probably think (rightfully so), 'A master of All is a master of None' 🤣</i>
 
-<table><tr><td valign="top" width="30%">
+<table><tr><td valign="top" width="25%">
 
 ### Frontend  
 <div align="center">  
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="20%">
+</td><td valign="top" width="25%">
 
 
 

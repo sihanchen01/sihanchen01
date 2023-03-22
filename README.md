@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
 ## Hi there 👋
 
 Welcome to another tiny little corner on Github, I handle this place as my private mini-library to save projects and learning materials 😄.

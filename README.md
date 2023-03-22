@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to another tiny little corner on Github, I handle this place as my private mini-library to save projects and learning materials 😄.
+Welcome to another tiny little corner on Github, I handle this place as a private mini-library to save projects and learning materials 😄.
 
 <!--
 **sihanchen01/sihanchen01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
